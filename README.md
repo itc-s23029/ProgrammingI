@@ -40,7 +40,7 @@
 - 4.6 ラムダ式([Q4_6_1.py](CHAPTER04/Q4_6_1.py))([Q4_6_2.py](CHAPTER04/Q4_6_2.py))
 - 4.7 関数の中の関数([Q4_7_1.py](CHAPTER04/Q4_7_1.py))
 - 4.8 デコレータ([Q4_8_1.py](CHAPTER04/Q4_8_1.py))
-- 4.9 コーディングスタイル
+- 4.9 コーディングスタイル([Q4_9_1.py](CHAPTER04/Q4_9_1.py))([Q4_9_2.py](CHAPTER04/Q4_9_2.py))
 - 九九の課題([kuku.py](CHAPTER04/kuku.py))
 ### 第5章　データ構造
 - 5.1 リストのメソッド([Q5_1_1.py](CHAPTER05/Q5_1_1.py))[Q5_1_2.py](CHAPTER05/Q5_1_2.py))[Q5_1_3.py](CHAPTER05/Q5_1_3.py))

@@ -49,7 +49,7 @@
 - 5.4 タプル([Q5_4_1.py](CHAPTER05/Q5_4_1.py))[Q5_4_2.py](CHAPTER05/Q5_4_2.py))[Q5_4_3.py](CHAPTER05/Q5_4_3.py))([Q5_4_4.py](CHAPTER05/Q5_4_4.py))
 - 5.5 集合（set）([Q5_5_1.py](CHAPTER05/Q5_5_1.py))[Q5_5_2.py](CHAPTER05/Q5_5_2.py))
 - 5.6 集合を使った演算([Q5_6_1.py](CHAPTER05/Q5_6_1.py))[Q5_6_2.py](CHAPTER05/Q5_6_2.py))
-- 5.7 辞書（dict）
+- 5.7 辞書（dict）([Q5_7_1.py](CHAPTER05/Q5_7_1.py))[Q5_7_2.py](CHAPTER05/Q5_7_2.py))
 - 5.8 辞書を使ったプログラミング
 - 5.9 ループのテクニック
 - 5.10 比較
